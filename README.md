@@ -1,3 +1,4 @@
 <h1>Tor Browser History Investigation Tool</h1>
-<br>
-![Usage](https://github.com/ethicaljivitesh/TorRec/assets/89233845/ede222db-0e50-4dcd-9c12-f2104e94a68c)
+
+![Usage](https://github.com/ethicaljivitesh/TorRec/assets/89233845/923fbefd-2a2d-4007-8d2f-80057aa9e70e)
+
